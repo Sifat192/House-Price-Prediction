@@ -5,9 +5,7 @@ seaborn==0.13.2
 scikit-learn==1.7.1
 jupyter
 
-
 ## Sample Visualizations
-
 The notebook includes:
 - House Price Distribution
 - Log-Transformed Price Distribution
