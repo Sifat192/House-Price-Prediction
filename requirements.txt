@@ -1,0 +1,23 @@
+pandas==2.2.2
+numpy==2.0.1
+matplotlib==3.10.7
+seaborn==0.13.2
+scikit-learn==1.7.1
+jupyter
+
+## Sample Visualizations
+
+The notebook includes several visualizations to better understand the dataset and model performance, including:
+
+- House Price Distribution
+- Log-Transformed House Price Distribution
+- Missing Value Analysis
+- Correlation Heatmap
+- Zoning Classification Analysis
+- Sale Price vs Overall Quality
+- Sale Price per Square Foot Distribution
+- Construction Age vs Sale Price per Square Foot
+- Sale Price vs Number of Bathrooms
+- Kitchen Quality Impact on Sale Price
+- Fireplace Analysis
+- Actual vs Predicted House Price Comparison
