@@ -63,6 +63,19 @@ Performance was evaluated using:
 * Mean Absolute Error (MAE)
 
 ---
+## Model Workflow
+
+The diagram provides an overview of the house price prediction
+project's workflow.
+
+<p align="center">
+  <img src="house-price-prediction-workflow.png"
+       alt="House price prediction project workflow"
+       width="500">
+</p>
+
+[View full-size diagram](house-price-prediction-workflow.png)
+---
 
 ## Technologies Used
 
